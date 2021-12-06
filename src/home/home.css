@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.home {
+    font-family: 'Patrick Hand', cursive;
+    min-height: 500px;
+}
+
+.home-body {
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.home-body .avatar {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.home-footer {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+figcaption::before {
+    content: none !important;
+}
+
+.selectDisable {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+.selectEnable { 
+    -webkit-user-select: text;
+    -khtml-user-select: text;
+    -moz-user-select: text;
+    -o-user-select: text;
+    user-select: text;
+}
+
+/* Icon */
+
+.ic-social {
+    color: black;
+}

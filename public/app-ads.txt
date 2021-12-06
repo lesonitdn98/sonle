@@ -1,0 +1,3 @@
+# app-ads.txt file for sonle.tech:
+
+google.com, pub-9782307752944150, DIRECT, f08c47fec0942fa0
