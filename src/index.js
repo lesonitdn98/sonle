@@ -22,7 +22,7 @@ render(
       </Route>
       <Route path="/" element={<Home />} />
       <Route path="/cv" element={<CV />} />
-      <Route path="/login" component={<Login />} />
+      <Route path="/login" element={<Login />} />
     </Routes>
   </BrowserRouter>,
   rootElement
