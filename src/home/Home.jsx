@@ -36,7 +36,7 @@ class Home extends React.Component {
                                         <a className="nav-link" href="/cv" target="_blank" rel="noreferrer">SonLe's CV</a>
                                     </li>
                                     <li className="nav-item">
-                                        <a className="nav-link" href="/">Login</a>
+                                        <a className="nav-link" href="/login">Login</a>
                                     </li>
                                 </ul>
                             </div>
